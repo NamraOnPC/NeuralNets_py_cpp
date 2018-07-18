@@ -1,10 +1,4 @@
-//
-//  ten.cpp
-//  mlperceptron
-//
-//  Created by Sergei Bugrov on 7/1/17.
-//  Copyright © 2017 Sergei Bugrov. All rights reserved.
-//
+//for old school people
 
 #include <iostream>
 #include <vector>
