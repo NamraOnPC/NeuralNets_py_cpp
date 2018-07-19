@@ -1,4 +1,5 @@
 //for old school people
+// c++ 98 ( don't use it would lots of errors, confusion and insomnia ) 
 
 #include <iostream>
 #include <vector>
