@@ -1,6 +1,3 @@
-// nine.cpp: Convert the neural net in nine lines of python to C++
-// https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
-
 // Embed the python code in the C++ code as a C++ comment to document what the C++ code is doing
 
 // Why not grep the embedded python code, strip off the C++ comment, and run it?
