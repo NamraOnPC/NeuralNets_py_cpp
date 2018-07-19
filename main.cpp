@@ -69,7 +69,7 @@ public:
 	//random.seed(1)
 	//self.synaptic_weights = 2 * random.random((3, 1)) - 1
 
-	vector<double> synaptic_weights;
+	vector<double> synaptic_weights; // bad practice ( but couldn't make it work if private)
 
 	NeuralNetwork(size_t s) {
 
